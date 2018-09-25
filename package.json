@@ -1,0 +1,23 @@
+{
+  "name": "insert-image-plugin",
+  "version": "0.0.1",
+  "dependencies": {
+    "@ckeditor/ckeditor5-basic-styles": "^10.0.2",
+    "@ckeditor/ckeditor5-core": "^11.0.0",
+    "@ckeditor/ckeditor5-dev-utils": "^11.0.1",
+    "@ckeditor/ckeditor5-editor-classic": "^11.0.0",
+    "@ckeditor/ckeditor5-essentials": "^10.1.1",
+    "@ckeditor/ckeditor5-image": "^10.2.0",
+    "@ckeditor/ckeditor5-paragraph": "^10.0.2",
+    "@ckeditor/ckeditor5-theme-lark": "^11.0.0",
+    "@ckeditor/ckeditor5-ui": "^11.0.0",
+    "postcss-loader": "^3.0.0",
+    "raw-loader": "^0.5.1",
+    "style-loader": "^0.23.0",
+    "webpack": "^4.19.1",
+    "webpack-cli": "^3.1.1"
+  },
+  "scripts": {
+    "build": "webpack --mode development"
+  }
+}
