@@ -4,7 +4,9 @@ https://ckeditor5.github.io/docs/nightly/ckeditor5/latest/framework/guides/quick
 
 Clone or download
 run:
+
 npm install
+
 npm run build
 
 You can open index.html to see it working.
